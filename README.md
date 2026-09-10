@@ -1,6 +1,6 @@
 # CFB Win Probability — HW3
 
-**Live site:** https://cfv-win-prob-2e16llu0b-arnavearve-2280s-projects.vercel.app
+**Live site:** https://cfv-win-prob.vercel.app
 
 A webpage that takes a gameId from the 2025 college football season and plots each team's win
 probability over the course of the game, assuming both teams are FBS.

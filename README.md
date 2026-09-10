@@ -20,8 +20,3 @@ No setup, no API key, nothing to install — it's already live.
   variables here, so it's never exposed to the browser.
 - `app/page.tsx` — the frontend. Takes the gameId input, calls the route above, and renders the
   win-probability chart with Recharts.
-
-## Data
-
-Nothing is stored or committed anywhere. Every time someone enters a gameId, the data is pulled live
-from CFBD's API and passed straight to the page.
